@@ -21,9 +21,7 @@ This repository contains a full SOC‑grade Intrusion Detection System integrati
 
 ## Files Included
 - `logstash.conf` — ML enrichment pipeline  
-- `main.py` — FastAPI model server  
-- `IDS_Project_Report.pdf` — Full project documentation  
-- `IDS_Project_Presentation.pptx` — SOC presentation  
+- `predict_api.py` — FastAPI model server  
 - Docker setup for reproducibility  
 
 ## How to Run
